@@ -1,0 +1,5 @@
+## Ignore files generated at build-time
+parser.cpp
+
+## Ignore generated binaries
+netvmburg

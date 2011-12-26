@@ -1,0 +1,3 @@
+## Ignore files generated at build-time by Bison and Flex
+nvm_gramm.tab.*
+scanner.*

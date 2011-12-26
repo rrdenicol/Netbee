@@ -1,0 +1,3 @@
+## Ignore files generated at runtime by Bison and Flex
+parser.*
+scanner.cpp

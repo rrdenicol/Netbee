@@ -1,0 +1,10 @@
+## Exclude generated binaries
+nbeedump
+nbextractor
+
+## Excluded files generated at runtime by nbeedump
+*.asm
+*.dot
+
+## Exclude .dot graphs converted into .png images
+*.png

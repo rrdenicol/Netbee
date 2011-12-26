@@ -1,0 +1,16 @@
+############################################################
+# IPv4 network ranges, to be used to test the nbextractor  #
+############################################################
+
+#
+# To use this file, you can launch nbextractor with the
+# following command line:
+#
+# nbextractor -r samplecapturedump.acp -netpdl netpdl-min.xml -anonip nbextractor_anonranges.txt 1,2 extractfields(ip.src,ip.dst)
+#
+# You will see that the IP address 192.168.10.2 contained in the
+# IP packets of 'samplecapturedump.acp' is scrambled within
+# its /24 class, while address 130.192.16.81 is kept as is.
+#
+
+192.168.10.0/24

@@ -1,0 +1,3 @@
+## Ignore files and headers generated at runtime
+inssel-*.h
+inssel-*.cpp

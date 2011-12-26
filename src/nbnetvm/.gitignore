@@ -1,0 +1,3 @@
+###### List of patterns matching files that should be ignored by Git ######
+## Table of opcodes generated as a step of compilation
+opcodestable.txt
